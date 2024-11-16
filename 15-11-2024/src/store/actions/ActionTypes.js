@@ -1,0 +1,6 @@
+export const ProductTypes = {
+    ALL_PRODUCTS : 'ALL_PRODUCT',
+    CART_PRODUCT:"CART_PRODUCT",
+    REMOVE_CART_PRODUCT:"REMOVE_CART_PRODUCT",
+
+}
